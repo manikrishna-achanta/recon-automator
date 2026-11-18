@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Project runtime output
+output/
+reports/
+results/
+cve_cache/
+gap_analysis_cache/
+*.rules
+data/raw/*.csv
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
